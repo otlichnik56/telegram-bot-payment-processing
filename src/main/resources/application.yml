@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/paymentProcessing
+    username: user
+    password: 1234567890
+
+telegram.bot.token: 5677451056:AAHPLWlNdVP3_1fQUe3ijNU1tSor0ww969U
